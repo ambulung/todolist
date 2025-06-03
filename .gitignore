@@ -1,0 +1,5 @@
+# .gitignore
+env/
+__pycache__/
+*.pyc
+todo_tasks.txt # You might or might not want to track this, depending on if it's sample data or user data
